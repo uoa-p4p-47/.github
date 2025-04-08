@@ -1,2 +1,2 @@
 # Compendium for Ground-Based Cloud Nowcasting
-This repo will contain public (and private) repositories for different (attempts at) implementations.
+This collection of repos will contain public (and private) repositories of different (attempts at) implementations.
